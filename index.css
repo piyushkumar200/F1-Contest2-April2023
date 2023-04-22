@@ -1,0 +1,33 @@
+html {
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+nav {
+    position: absolute;
+    width: 1728px;
+    height: 86px;
+    left: 0px;
+    top: 0px;
+    background: #FCAF02;
+}
+.slogo {
+    position: absolute;
+    width: 127px;
+    height: 39px;
+    left: 58px;
+    top: 24px;
+}
+.nright {
+    display: flex;
+    flex-flow: row wrap;
+    align-content: left;
+    align-items: right;
+    gap: 50px;
+}
+.photo {
+    position: absolute;
+    width: 697px;
+    height: 482px;
+    left: 1678px;
+    top: 173px;
+}
